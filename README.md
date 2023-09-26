@@ -1,9 +1,9 @@
 # CrimsonClient Mods
-"Disconnect",/n
-"Secondary Disconnect",/n
-"Join Random",/n
-"Platforms [UND]",/n
-"Invis Platforms",/n
+"Disconnect",
+"Secondary Disconnect",
+"Join Random",
+"Platforms [UND]",
+"Invis Platforms",
 "Fly",
 "Slow Fly",
 "Fast Fly",
